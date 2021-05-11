@@ -1,0 +1,43 @@
+body {
+   text-align: center; 
+   background-image: url(lapi.jpg);
+   background-repeat: no-repeat;    
+   background-size: cover;    
+ }
+ 
+ 
+ header{
+  height: 200px;
+  background-image: url(mer.jpg);
+  width: 100%;
+  background-size: cover;
+ }
+  nav{
+   float: right;
+   line-height: 100px;
+  background-color: rgb(177, 243, 138);
+ }
+  nav a{
+ text-decoration: none;
+ letter-spacing: 4px;
+ font-size: 30px;
+ margin: 0 10px ;
+  color: rgb(21, 5, 238);
+ padding: 20px solid;
+
+  }
+  a:hover{
+  color: aqua;
+}
+.lap{
+  float: left;
+  height: 10%;
+}
+footer{
+  padding-top: 10%;
+}
+.txt{
+  font-size: 50px;
+  color: brown;
+}
+
